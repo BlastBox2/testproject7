@@ -1,4 +1,4 @@
 package testgroup;
 
-public class A {
+public class Abc {
 }
